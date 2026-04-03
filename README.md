@@ -24,4 +24,5 @@ Cette application Android est un système de gestion (management) autonome, dév
 | Architecture     | MVC ou personnalisée          |
 | UI               | XML + Material Design         |
 
+<img width="408" height="893" alt="Capture d&#39;écran 2024-12-08 152303" src="https://github.com/user-attachments/assets/f5897703-36dc-4d2c-b1b0-c0dc13a23000" />
 
